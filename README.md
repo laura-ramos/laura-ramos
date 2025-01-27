@@ -8,4 +8,4 @@
 -   HTML, CSS
 -   Drupal
 -   GIT - Github/Bitbucket
--   Boostrap / Taildwind
+-   Bootstrap / Tailwind
